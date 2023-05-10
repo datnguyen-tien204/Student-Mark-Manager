@@ -1,0 +1,10 @@
+Nganh,n1,khmt
+Nganh,n2,cntt
+Nganh,n3,ktpm
+Nganh,n4,ki thuat may
+Nganh,n5,tu dong may
+Nganh,n6,dien lanh
+Nganh,n7,tu dong hoa
+Nganh,n8,ke toan
+Nganh,n9,ngan hang
+Nganh,n10,ki su

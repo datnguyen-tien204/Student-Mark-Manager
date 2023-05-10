@@ -1,0 +1,138 @@
+C:\Users\nguye\source\repos\qlisv1\qlisv1\obj\Debug\net6.0\qlisv1.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\qlisv1\qlisv1\obj\Debug\net6.0\qlisv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\qlisv1\qlisv1\obj\Debug\net6.0\qlisv1.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\qlisv1\qlisv1\obj\Debug\net6.0\qlisv1.AssemblyInfo.cs
+C:\Users\nguye\source\repos\qlisv1\qlisv1\obj\Debug\net6.0\qlisv1.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\qlisv1.exe
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\qlisv1.deps.json
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\qlisv1.runtimeconfig.json
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\qlisv1.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\qlisv1.pdb
+C:\Users\nguye\source\repos\qlisv1\qlisv1\obj\Debug\net6.0\qlisv1.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\obj\Debug\net6.0\refint\qlisv1.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\obj\Debug\net6.0\qlisv1.pdb
+C:\Users\nguye\source\repos\qlisv1\qlisv1\obj\Debug\net6.0\qlisv1.genruntimeconfig.cache
+C:\Users\nguye\source\repos\qlisv1\qlisv1\obj\Debug\net6.0\ref\qlisv1.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\qlisv1.dll.config
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\obj\Debug\net6.0\qlisv1.csproj.CopyComplete
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\DustInTheWind.ConsoleTools.Controls.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\DustInTheWind.ConsoleTools.Controls.Menus.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\DustInTheWind.ConsoleTools.Controls.Spinners.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\DustInTheWind.ConsoleTools.Controls.Tables.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\DustInTheWind.ConsoleTools.Core.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\fr\DustInTheWind.ConsoleTools.Controls.resources.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\ro\DustInTheWind.ConsoleTools.Controls.resources.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\fr\DustInTheWind.ConsoleTools.Controls.Menus.resources.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\ro\DustInTheWind.ConsoleTools.Controls.Menus.resources.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\fr\DustInTheWind.ConsoleTools.Controls.Spinners.resources.dll
+C:\Users\nguye\source\repos\qlisv1\qlisv1\bin\Debug\net6.0\ro\DustInTheWind.ConsoleTools.Controls.Spinners.resources.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\qlisv1.exe
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\qlisv1.dll.config
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\qlisv1.deps.json
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\qlisv1.runtimeconfig.json
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\qlisv1.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\qlisv1.pdb
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Azure.Core.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Azure.Identity.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\DustInTheWind.ConsoleTools.Controls.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\DustInTheWind.ConsoleTools.Controls.Menus.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\DustInTheWind.ConsoleTools.Controls.Spinners.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\DustInTheWind.ConsoleTools.Controls.Tables.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\DustInTheWind.ConsoleTools.Core.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\fr\DustInTheWind.ConsoleTools.Controls.resources.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\ro\DustInTheWind.ConsoleTools.Controls.resources.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\fr\DustInTheWind.ConsoleTools.Controls.Menus.resources.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\ro\DustInTheWind.ConsoleTools.Controls.Menus.resources.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\fr\DustInTheWind.ConsoleTools.Controls.Spinners.resources.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\ro\DustInTheWind.ConsoleTools.Controls.Spinners.resources.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\obj\Debug\net6.0\qlisv1.csproj.AssemblyReference.cache
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\obj\Debug\net6.0\qlisv1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\obj\Debug\net6.0\qlisv1.AssemblyInfoInputs.cache
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\obj\Debug\net6.0\qlisv1.AssemblyInfo.cs
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\obj\Debug\net6.0\qlisv1.csproj.CoreCompileInputs.cache
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\obj\Debug\net6.0\qlisv1.csproj.CopyComplete
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\obj\Debug\net6.0\qlisv1.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\obj\Debug\net6.0\refint\qlisv1.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\obj\Debug\net6.0\qlisv1.pdb
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\obj\Debug\net6.0\qlisv1.genruntimeconfig.cache
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\obj\Debug\net6.0\ref\qlisv1.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\System.Net.Mail.Abstractions.dll
+D:\Bài tập lớn\C#\DoAnCK1\qlisv1\bin\Debug\net6.0\AsciiChart.Sharp.dll

@@ -1,0 +1,4 @@
+Khoa,kh1,cntt,10,37,1232,16,3,27
+Khoa,kh2,may,12,25,1000,15,3,19
+Khoa,kh3,dien-dien tu,18,20,920,23,2,19
+Khoa,kh4,kinh te,18,31,1105,18,3,25

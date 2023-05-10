@@ -1,0 +1,2 @@
+SinhVien,10122118,tuan,nam,19,da trach,12422tn,kh1,n1,0986334378,tuannv@gmail.com,12/4/2004 12:00:00 AM
+SinhVien,10122117,ha,nu,22,kim dong,12421,kh2,n10,0986334379,hangunhe@gamil.com,2/3/2001 12:00:00 AM

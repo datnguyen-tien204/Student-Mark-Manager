@@ -1,0 +1,15 @@
+--Get on nuget packages
+
+Microsoft.Data.SqlClient
+System.Data.SqlClient
+System.Net.Mail.Abstractions
+ConsoleTools
+
+--Cách cài đặt
+
+Nếu chưa hiện bảng Solution Explorer:
+-- View--> Solution Explorer
+
+--Cài đặt SQL Client
+Solution Explorer--> Chuột phải vào qlisv1---> Manage NugetPackage--->Browse--> Nhập Microsoft.Data.SqlClient-->Chọn cái đầu---> Ấn Install
+thực hiện tương tự với System.Data.SqlClient và còn lại

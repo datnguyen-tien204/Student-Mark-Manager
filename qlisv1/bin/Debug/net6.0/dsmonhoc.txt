@@ -1,0 +1,4 @@
+MonHoc,mh1,toan,4,1,2021-2022,gv1,kh3
+MonHoc,mh2,csktlt,3,2,2022-2023,gv4,kh1
+MonHoc,mh3,csdl,4,2,2022-2023,gv3,kh1
+MonHoc,mh4,python co ban,4,1,2022-2023,gv2,kh2

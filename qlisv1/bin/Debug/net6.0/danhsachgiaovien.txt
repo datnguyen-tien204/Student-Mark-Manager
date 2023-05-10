@@ -1,0 +1,4 @@
+GiaoVien,gv1,tuan,kh1,cntt,False,null,0986334378,tuangyyen@gmail.com,da trach
+GiaoVien,gv2,ha,kh2,may,True,12422tn,0986334377,hanguyen@gmail.com,my hao
+GiaoVien,gv3,vu,kh2,may,False,null,0986334376,vunguyen@gmail.com,my hao
+GiaoVien,gv4,ngan,kh4,kinh te,False,null,0987652345,vungan@gmail.com,kim dong
